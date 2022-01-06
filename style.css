@@ -11,7 +11,7 @@ span {
 p {
   margin: 5%;
 }
-h3 {
+h2 {
   color: rgb(202, 22, 52);
 }
 body {
@@ -32,7 +32,7 @@ body {
 }
 .half-width img {
   width: 50%;
-  margin-right: 60%;
+  margin-right: 20%;
   padding-right: 5%;
   padding-top: 5%;
   background-color: white;
@@ -53,17 +53,19 @@ body {
 }
 .box-1 {
   font-family: Georgia, "Times New Roman", Times, serif;
-  width: auto;
-  margin: 2%;
+  width: 30%;
+  height: 40%;
+  margin: 1%;
   padding: 0%;
-  background-color: skyblue;
+  background-color: rgb(122, 173, 194);
   text-align: center;
   border-radius: 10%;
 }
 .box-2 {
   font-family: Georgia, "Times New Roman", Times, serif;
-  width: auto;
-  margin: 2%;
+  width: 30%;
+  height: 40%;
+  margin: 1%;
   padding: 0%;
   background-color: skyblue;
   text-align: center;
@@ -71,10 +73,32 @@ body {
 }
 .box-3 {
   font-family: Georgia, "Times New Roman", Times, serif;
-  width: auto;
-  margin: 2%;
+  width: 30%;
+  height: 40%;
+  margin: 1%;
   padding: 0%;
-  background-color: skyblue;
+  background-color: rgb(112, 158, 177);
   text-align: center;
   border-radius: 10%;
+}
+.image-1 {
+  width: 30%;
+}
+.blue-color {
+  color: rgb(22, 22, 156);
+}
+
+h5 {
+  font-family: inherit;
+  font-style: italic;
+  font-size: 50px;
+}
+h6 {
+  font-size: 20px;
+}
+footer {
+  text-align: center;
+  background-color: rgb(105, 25, 25);
+  margin: 0%;
+  padding-bottom: 1%;
 }

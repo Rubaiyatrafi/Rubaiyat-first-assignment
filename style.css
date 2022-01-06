@@ -39,7 +39,7 @@ body {
 }
 .flexiable-container {
   display: flex;
-  margin-bottom: 100%;
+  /* margin-bottom: 100%; */
 }
 .top-banner {
   background-image: url(images/mine/top-banner.png);
@@ -48,7 +48,33 @@ body {
 .text-modify {
   text-align: center;
 }
+.section {
+  margin: 0%;
+}
 .box-1 {
-  image {
-    max-width: 20px;
-  }
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: auto;
+  margin: 2%;
+  padding: 0%;
+  background-color: skyblue;
+  text-align: center;
+  border-radius: 10%;
+}
+.box-2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: auto;
+  margin: 2%;
+  padding: 0%;
+  background-color: skyblue;
+  text-align: center;
+  border-radius: 10%;
+}
+.box-3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: auto;
+  margin: 2%;
+  padding: 0%;
+  background-color: skyblue;
+  text-align: center;
+  border-radius: 10%;
+}

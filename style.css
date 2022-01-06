@@ -54,31 +54,31 @@ body {
 .box-1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   width: 30%;
-  height: 40%;
+  height: 60%;
   margin: 1%;
-  padding: 0%;
+  padding-left: 5%;
   background-color: rgb(122, 173, 194);
-  text-align: center;
+  text-align: left;
   border-radius: 10%;
 }
 .box-2 {
   font-family: Georgia, "Times New Roman", Times, serif;
   width: 30%;
-  height: 40%;
+  height: 60%;
   margin: 1%;
-  padding: 0%;
+  padding-left: 5%;
   background-color: skyblue;
-  text-align: center;
+  text-align: left;
   border-radius: 10%;
 }
 .box-3 {
   font-family: Georgia, "Times New Roman", Times, serif;
   width: 30%;
-  height: 40%;
+  height: 60%;
   margin: 1%;
-  padding: 0%;
+  padding-left: 5%;
   background-color: rgb(112, 158, 177);
-  text-align: center;
+  text-align: left;
   border-radius: 10%;
 }
 .image-1 {
